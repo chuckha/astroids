@@ -6,4 +6,3 @@ pubspec.lock
 *.js.deps
 *.js.map
 .DS_Store
-*.dart.js
